@@ -1,6 +1,15 @@
 # 연구 논문 아카이브
 📚 읽은 논문 리스트 및 참고문헌 정리
 
-## 📌 2024년 논문
-| 논문 제목 | 저자 | 키워드 | 참고문헌 Key |
-|-----------|------|--------|--------------|
+## 📌 2025년
+
+# 논문 제목: Heralded entanglement distribution between two absorptive quantum memories
+- **저자**: Xiao Liu, Jun Hu, Zong-Feng Li, Xue Li, Pei-Yun Li, Peng-Jun Liang, Zong-Quan Zhou, Chuan-Feng Li, Guang-Can Guo
+- **저널**: Nature, Vol 594, 3 June 2021
+- **DOI**: [10.1038/s41586-021-03505-3](https://doi.org/10.1038/s41586-021-03505-3)
+- **한 줄 요약**: 양자 얽힘을 흡수형 양자 메모리를 이용해 원격 분배하는 실험을 수행하고, 최대 80.4% fidelity를 확인함.
+                  SPDC에서 편광얽힘광원을 이용하여 벨 상태를 만들고 AFC protocol 기반의 rare-earth-ion-doped crystals에서 메모리를 이용하여 
+                  *** two-photon coincidence count**의 형태로 repeater node를 구현함. (나의 실험적 구현 목표와 동일한 형태라 여러번 읽을 필요성이 있음)
+
+- **핵심 키워드**: Quantum Memory, Entanglement Distribution, Bell-State Measurement, Absorptive Quantum Memory, Quantum Repeater
+- **참고문헌 추가**: `@Liu2021` (BibTeX Key)
